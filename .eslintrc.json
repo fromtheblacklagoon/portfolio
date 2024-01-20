@@ -1,0 +1,7 @@
+{
+  "extends": "plugin:@hapi/recommended",
+  "parserOptions": {
+    "ecmaVersion": 2023,
+    "sourceType": "script"
+  }
+}
